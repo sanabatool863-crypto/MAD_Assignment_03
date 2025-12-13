@@ -1,4 +1,4 @@
-# Assignment 3 – Freelancing Bidding Reflection (No Client Responses)
+# Assignment 3 – Freelancing Bidding Reflection
 
 ## Overview
 This repository documents my five-day freelancing bidding experience on online platforms. The focus of this assignment was to practice proposal writing, understand freelancing platform dynamics, and reflect on client interaction outcomes. Although no clients responded during this period, the experience provided valuable learning related to competition, visibility, and professional self-presentation.
