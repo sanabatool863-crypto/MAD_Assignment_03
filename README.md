@@ -68,4 +68,11 @@ Based on this experience, future actions include:
 Although no client responses were received during this assignment, the experience offered meaningful insight into freelancing workflows and competitive environments. It helped identify weaknesses and set a clear direction for future improvement and growth.
 
 
-**Author:** Sana Batool  
+## 🧑‍💻 Author
+
+**Sana Batool**
+Full Stack / Mobile Developer
+
+## ⭐ Support This Project
+
+If you like this project, please **star ⭐ the repo** it helps me grow!
