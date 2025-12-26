@@ -64,16 +64,8 @@ Based on this experience, future actions include:
 - Maintaining consistent follow-up discipline
 
 
-## Repository Contents
-- `README.md` – Assignment overview and reflection summary
-- `Daily_Reflections.md` – Detailed daily reflection entries
-- Supporting files (if required)
-
-
 ## Conclusion
 Although no client responses were received during this assignment, the experience offered meaningful insight into freelancing workflows and competitive environments. It helped identify weaknesses and set a clear direction for future improvement and growth.
 
 
 **Author:** Sana Batool  
-**Assignment:** Freelancing Bidding & Reflection  
-**Course:** Software Engineering / Professional Skills
